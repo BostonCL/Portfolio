@@ -15,11 +15,11 @@ Output:
 Contains n lines. In each line will be the name of the clients in order from first to last from starting point.
 
 Sample Input/ Output
-3 5 7
-3 2 Jacob
-5 9 David
-10 4 Eric
+ 3 5 7
+ 3 2 Jacob
+ 5 9 David
+ 10 4 Eric
 
-David
-Jacob
-Eric
+ David
+ Jacob
+ Eric
